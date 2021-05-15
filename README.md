@@ -8,4 +8,6 @@ Following this [tutorial](https://www.hackingwithswift.com/100/swiftui)
 - ✅ Day 20 - 22 | Project 2: Guess the Flag
 - ✅ Day 23 - 24 | Project 3: Views and ViewModifiers
 - ✅ Day 25 | Challenge 2
-- 🚧 Day 26 - 28 | Project 4: BetterRest
+- ✅ Day 26 - 28 | Project 4: BetterRest
+- ✅ Day 29 - 31 | Project 5: Word Scramble
+- 🚧 Day 32 - 34 | Project 6: Animations
