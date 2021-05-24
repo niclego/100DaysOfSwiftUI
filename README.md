@@ -12,3 +12,5 @@ Following this [tutorial](https://www.hackingwithswift.com/100/swiftui)
 - ✅ Day 29 - 31 | Project 5: Word Scramble
 - ✅ Day 32 - 34 | Project 6: Animations
 - ✅ Day 36 - 38 | Project 7: iExpense
+- ✅ Day 39 - 42 | Project 8: Moonshot
+- 🚧 Day 43 - 46 | Project 9: Drawing
