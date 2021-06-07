@@ -15,3 +15,5 @@ Following this [tutorial](https://www.hackingwithswift.com/100/swiftui)
 - ✅ Day 39 - 42 | Project 8: Moonshot
 - ✅ Day 43 - 46 | Project 9: Drawingi
 - ✅ Day 49 - 52 | Project 10: CupcakeCorner
+- ✅ Day 53 - 56 | Project 11: Bookworm
+- 🚧 Day 57 - 59 | Project 12: CoreDataProject
