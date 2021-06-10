@@ -2,7 +2,7 @@
 //  CoreDataProjectApp.swift
 //  CoreDataProject
 //
-//  Created by Nicolas Le Gorrec on 6/7/21.
+//  Created by Nicolas Le Gorrec on 6/8/21.
 //
 
 import SwiftUI
